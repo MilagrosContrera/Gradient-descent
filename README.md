@@ -2,7 +2,7 @@
 We will use the gardient descent algorithm to find a local minimum of a 2D function, in this case, the Sphere function.
 Formula:
 
-f(x,y)=x2+y2 
+f(x,y)=x^2+y^2 
 
 Global minimum:
 
